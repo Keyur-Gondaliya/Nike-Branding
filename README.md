@@ -9,13 +9,13 @@ This project is a Nike landing page created using Next.js and styled with Tailwi
 1. Clone this repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Keyur-Gondaliya/Nike-Branding.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd nike-landing-page
+    cd Nike-Branding
     ```
 
 3. Install dependencies:
